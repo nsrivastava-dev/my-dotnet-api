@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqPnskc0x39P22LuYuV/0WnBpKeaNe7qETiPTpPnWibGNRAN83zBrXbHYc6I5Fca6yMtxrxFkGWziLWqoD8DmQ==",
+  "success": false,
+  "projectFilePath": "Z:\\Learning\\SecureApi-master\\SecureApi\\SecureApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\developer1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\developer1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\developer1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\developer1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\developer1\\Documents\\Learning\\ReportEngine.Core\\ReportEngine.Core\\bin\\Release' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    }
+  ]
+}
